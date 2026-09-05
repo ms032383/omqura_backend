@@ -525,7 +525,7 @@ def handle_clinical_query(payload: QueryRequest):
     llm_output = ""
     
     # Check if this is the fine-tuned MedGemma 4B model
-    if selected_model in ["medgemma-4b", "medgemma-abg-vent-lora", "medgemma-lora"]:
+    if selected_model in ["medgemma:4b", "medgemma-4b", "medgemma-1.5-4b-it", "medgemma-abg-vent-lora", "medgemma-lora"]:
         print("Routing query to fine-tuned MedGemma 4B LoRA service...")
         try:
             from medgemma_service import run_medgemma_inference
