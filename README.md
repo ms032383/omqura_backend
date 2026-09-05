@@ -1,4 +1,4 @@
-# Omqura / ZA EYN Neuro-AI Backend Engine
+# Omqura /  Neuro-AI Backend Engine
 
 High-performance Medical & Neurosurgical Decision-Support Backend built with FastAPI, MedGemma 4B LoRA, ChromaDB RAG, and multimodal clinical analysis.
 
