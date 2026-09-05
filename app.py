@@ -529,7 +529,7 @@ def handle_clinical_query(payload: QueryRequest):
         print("Routing query to fine-tuned MedGemma 4B LoRA service...")
         try:
             from medgemma_service import run_medgemma_inference
-            medgemma_output = run_medgemma_inference(payload.query)
+            medgemma_output = run_medgemma_inference(payload.query, images=payload.images)
             return {
                 "status": "success",
                 "answer_text": medgemma_output,
