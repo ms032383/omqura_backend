@@ -1,0 +1,8 @@
+# Core GPU and LLM Dependencies for MedGemma 4B LoRA
+torch
+transformers
+accelerate
+peft
+bitsandbytes
+huggingface_hub
+sentencepiece

@@ -1,0 +1,7 @@
+fastapi
+pydantic
+requests
+uvicorn
+chromadb
+google-generativeai
+python-dotenv

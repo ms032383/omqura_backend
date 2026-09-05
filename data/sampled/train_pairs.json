@@ -1,0 +1,32 @@
+[
+  {
+    "instruction": "Explain the anatomical details or role of: 'The cerebellum regulates motor coordinat...'?",
+    "response": "The cerebellum regulates motor coordination, precision, timing, and balance.",
+    "category": "anatomy",
+    "tokens_est": 11
+  },
+  {
+    "instruction": "Explain the anatomical details or role of: 'A neuron or nerve cell is an electricall...'?",
+    "response": "A neuron or nerve cell is an electrically excitable cell that communicates via synapses.",
+    "category": "anatomy",
+    "tokens_est": 18
+  },
+  {
+    "instruction": "What is the standard surgical or treatment guideline for: 'Vascularized nasoseptal flap (Hadad-Bass...'?",
+    "response": "Vascularized nasoseptal flap (Hadad-Bassagasteguy flap) reduces post-operative CSF leak to less than 2%.",
+    "category": "guideline",
+    "tokens_est": 16
+  },
+  {
+    "instruction": "What is the standard surgical or treatment guideline for: 'For clival chordoma, achieving wide marg...'?",
+    "response": "For clival chordoma, achieving wide margin resection (greater than 1-2 mm margin) is recommended.",
+    "category": "guideline",
+    "tokens_est": 18
+  },
+  {
+    "instruction": "Analyze the following clinical data/paper extract: 'Patient ID: 9402, meningioma protocol lo...'?",
+    "response": "Patient ID: 9402, meningioma protocol lookup, sagittal sinus patency confirmed, Simpsons Grade I.",
+    "category": "nntr_data",
+    "tokens_est": 16
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "instruction": "Explain the anatomical details or role of: 'The cerebrum is the largest part of the ...'?",
+    "response": "The cerebrum is the largest part of the brain, composed of left and right hemispheres.",
+    "category": "anatomy",
+    "tokens_est": 19
+  },
+  {
+    "instruction": "What is the standard surgical or treatment guideline for: 'According to AANS/CNS guidelines, for pa...'?",
+    "response": "According to AANS/CNS guidelines, for patients undergoing elective craniotomy on DAPT, discontinue Clopidogrel 5-7 days prior.",
+    "category": "guideline",
+    "tokens_est": 20
+  },
+  {
+    "instruction": "Analyze the following clinical data/paper extract: 'Patient ID: 3392, acoustic neuroma resec...'?",
+    "response": "Patient ID: 3392, acoustic neuroma resection, Koos Grade III, facial nerve preserved via subtotal resection.",
+    "category": "nntr_data",
+    "tokens_est": 19
+  }
+]

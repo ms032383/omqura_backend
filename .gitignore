@@ -1,0 +1,25 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Environment Variables & Secrets
+.env
+*.local.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & Editor files
+.idea/
+.vscode/
+
+# Extracted weights (keep only the compressed zip)
+medgemma-abg-vent-lora/
+
+# Database lock files & logs
+*.log
+data/chroma_db/*.lock

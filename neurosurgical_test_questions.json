@@ -1,0 +1,242 @@
+[
+  {
+    "question_id": "Q001",
+    "query": "What are the recommended surgical margins for a chordoma resection in the clival region, and what is the recurrence rate?",
+    "patient_context": {
+      "age": 45,
+      "sex": "M",
+      "notes": "Clival chordoma, no prior radiation."
+    },
+    "expected_evidence_type": "surgical_oncology",
+    "difficulty": "intermediate",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q002",
+    "query": "What is the 5-year progression-free survival rate for patients with vestibular schwannoma treated with stereotactic radiosurgery versus microsurgical resection?",
+    "patient_context": {
+      "age": 62,
+      "sex": "F",
+      "notes": "Right-sided vestibular schwannoma, 2.8 cm, serviceable hearing (GR Class I)."
+    },
+    "expected_evidence_type": "comparative_outcomes",
+    "difficulty": "advanced",
+    "target_citation_count": 3
+  },
+  {
+    "question_id": "Q003",
+    "query": "In awake craniotomy for eloquent-area gliomas, what is the threshold for motor-evoked potential amplitude decline that mandates intraoperative intervention?",
+    "patient_context": {
+      "age": 38,
+      "sex": "M",
+      "notes": "Left frontal low-grade glioma, motor cortex involvement, first surgery."
+    },
+    "expected_evidence_type": "intraoperative_monitoring",
+    "difficulty": "advanced",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q004",
+    "query": "What are the current AANS/CNS guidelines for antithrombotic management in patients undergoing elective craniotomy who are on dual antiplatelet therapy?",
+    "patient_context": {
+      "age": 71,
+      "sex": "M",
+      "notes": "Coronary stent placed 8 months ago, on aspirin and clopidogrel, scheduled for meningioma resection."
+    },
+    "expected_evidence_type": "guideline_recommendation",
+    "difficulty": "intermediate",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q005",
+    "query": "What is the incidence of cerebrospinal fluid leak following endoscopic endonasal approach to pituitary adenomas, and what are the evidence-based repair strategies?",
+    "patient_context": {
+      "age": 54,
+      "sex": "F",
+      "notes": "Non-functioning pituitary macroadenoma with suprasellar extension, planned endonasal transsphenoidal approach."
+    },
+    "expected_evidence_type": "complication_profile",
+    "difficulty": "intermediate",
+    "target_citation_count": 3
+  },
+  {
+    "question_id": "Q006",
+    "query": "For recurrent glioblastoma, what is the median overall survival benefit of bevacizumab monotherapy compared to best supportive care in the post-radiation setting?",
+    "patient_context": {
+      "age": 58,
+      "sex": "F",
+      "notes": "IDH-wildtype glioblastoma, MGMT methylated, first recurrence 9 months post-chemoradiation."
+    },
+    "expected_evidence_type": "oncologic_outcomes",
+    "difficulty": "advanced",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q007",
+    "query": "What are the radiographic criteria for defining gross total resection versus near-total resection in pediatric posterior fossa ependymoma?",
+    "patient_context": {
+      "age": 6,
+      "sex": "M",
+      "notes": "Posterior fossa ependymoma, post-operative MRI pending."
+    },
+    "expected_evidence_type": "surgical_oncology",
+    "difficulty": "intermediate",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q008",
+    "query": "In decompressive craniectomy for malignant middle cerebral artery infarction, what is the recommended time window from stroke onset to surgery for optimal functional outcome?",
+    "patient_context": {
+      "age": 67,
+      "sex": "M",
+      "notes": "Left MCA territory infarction, NIHSS 18, 36 hours from onset, midline shift 8 mm."
+    },
+    "expected_evidence_type": "emergency_surgery",
+    "difficulty": "intermediate",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q009",
+    "query": "What is the rate of postoperative hydrocephalus requiring ventriculoperitoneal shunt placement after posterior fossa tumor resection in children under 5 years?",
+    "patient_context": {
+      "age": 4,
+      "sex": "F",
+      "notes": "Medulloblastoma, planned suboccipital craniotomy, pre-existing ventriculomegaly."
+    },
+    "expected_evidence_type": "pediatric_complications",
+    "difficulty": "intermediate",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q010",
+    "query": "For patients with trigeminal neuralgia refractory to medical management, what is the long-term pain-free rate at 10 years following microvascular decompression?",
+    "patient_context": {
+      "age": 52,
+      "sex": "F",
+      "notes": "Right V2/V3 distribution trigeminal neuralgia, failed carbamazepine and oxcarbazepine."
+    },
+    "expected_evidence_type": "longitudinal_outcomes",
+    "difficulty": "advanced",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q011",
+    "query": "What are the intraoperative hemodynamic targets for maintaining cerebral perfusion pressure during aneurysm clipping in patients with subarachnoid hemorrhage?",
+    "patient_context": {
+      "age": 55,
+      "sex": "M",
+      "notes": "WFNS Grade II SAH, anterior communicating artery aneurysm, planned pterional craniotomy on day 3."
+    },
+    "expected_evidence_type": "perioperative_management",
+    "difficulty": "intermediate",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q012",
+    "query": "In the management of chronic subdural hematoma, what is the recurrence rate following burr-hole drainage with subdural drain placement versus drainage alone?",
+    "patient_context": {
+      "age": 78,
+      "sex": "M",
+      "notes": "Bilateral chronic subdural hematomas, 15 mm right, 12 mm left, on apixaban."
+    },
+    "expected_evidence_type": "comparative_outcomes",
+    "difficulty": "intermediate",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q013",
+    "query": "What is the recommended dose and fractionation schedule for adjuvant radiotherapy in atypical meningioma (WHO Grade II) following Simpson Grade I resection?",
+    "patient_context": {
+      "age": 48,
+      "sex": "F",
+      "notes": "Left sphenoid wing atypical meningioma, Simpson Grade I resection, Ki-67 8%."
+    },
+    "expected_evidence_type": "radiation_oncology",
+    "difficulty": "advanced",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q014",
+    "query": "For intramedullary spinal cord tumors, what is the rate of postoperative neurological deterioration following gross total resection in the cervical region?",
+    "patient_context": {
+      "age": 42,
+      "sex": "M",
+      "notes": "C4-C6 intramedullary ependymoma, McCormick Grade II, planned laminoplasty."
+    },
+    "expected_evidence_type": "spinal_surgery",
+    "difficulty": "advanced",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q015",
+    "query": "What are the evidence-based criteria for selecting patients with moyamoya disease for direct versus indirect revascularization?",
+    "patient_context": {
+      "age": 35,
+      "sex": "F",
+      "notes": "Bilateral moyamoya, Suzuki Stage III, symptomatic with TIA, no prior stroke."
+    },
+    "expected_evidence_type": "surgical_decision_making",
+    "difficulty": "advanced",
+    "target_citation_count": 3
+  },
+  {
+    "question_id": "Q016",
+    "query": "In patients with cavernous malformations of the brainstem, what is the annual hemorrhage risk and what surgical approaches are indicated for lesions with repeated bleeds?",
+    "patient_context": {
+      "age": 29,
+      "sex": "M",
+      "notes": "Pontine cavernous malformation, two prior symptomatic hemorrhages, left-sided hemiparesis."
+    },
+    "expected_evidence_type": "vascular_neurosurgery",
+    "difficulty": "advanced",
+    "target_citation_count": 3
+  },
+  {
+    "question_id": "Q017",
+    "query": "What is the 30-day mortality rate for elective clipping of unruptured anterior circulation aneurysms in patients over 70 years of age?",
+    "patient_context": {
+      "age": 74,
+      "sex": "F",
+      "notes": "7 mm right middle cerebral artery bifurcation aneurysm, unruptured, no comorbidities."
+    },
+    "expected_evidence_type": "surgical_outcomes",
+    "difficulty": "intermediate",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q018",
+    "query": "For patients with idiopathic intracranial hypertension refractory to medical therapy, what is the success rate of ventriculoperitoneal shunting in preserving visual function at 2 years?",
+    "patient_context": {
+      "age": 32,
+      "sex": "F",
+      "notes": "IIH, BMI 38, papilledema Grade III, failed acetazolamide and topiramate, visual field constriction."
+    },
+    "expected_evidence_type": "functional_outcomes",
+    "difficulty": "intermediate",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q019",
+    "query": "In the surgical management of craniosynostosis, what is the estimated blood transfusion requirement for total calvarial vault remodeling in infants under 12 months?",
+    "patient_context": {
+      "age": 8,
+      "sex": "M",
+      "notes": "Craniosynostosis, sagittal suture fusion, planned total vault remodeling."
+    },
+    "expected_evidence_type": "pediatric_surgery",
+    "difficulty": "intermediate",
+    "target_citation_count": 2
+  },
+  {
+    "question_id": "Q020",
+    "query": "What is the rate of pseudarthrosis following posterior cervical fusion using lateral mass screws and rods for multilevel degenerative disease?",
+    "patient_context": {
+      "age": 65,
+      "sex": "M",
+      "notes": "C3-C6 spondylotic myelopathy, planned posterior decompression and instrumented fusion."
+    },
+    "expected_evidence_type": "spinal_surgery",
+    "difficulty": "intermediate",
+    "target_citation_count": 2
+  }
+]
